@@ -11,10 +11,28 @@
     --smboxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
 }
 
+
 .App{
     padding: 0.5rem 3.5rem;
     overflow: hidden;
     color: var(--black);    
+}
+
+.button{
+  border-radius: 34px;
+  border: none;
+  color: white;
+  font-size: 11px;
+  padding:10px;
+  background: linear-gradient(180deg, #FCA61F 26.71%, #fb982f 99.36%);
+
+}
+
+button:hover{
+  background: white;
+  cursor:pointer;
+  color:var(--orange);
+  border: 1px solid var(--orange);
 }
 
 
