@@ -22,7 +22,7 @@ const Services=()=>{
 			</div>
 			<div className='cards'>
 			<div style={{left:'14rem'}}>
-				<Card emoji={HeartEmoji} heading='Frontend' detail="React, Angular, Bootstrap, Styled Components"/>
+				<Card emoji={HeartEmoji} heading='Frontend' detail="React, Angular, Bootstrap, Styled Components, Material UI"/>
 			</div>
 			<div style={{top:'12rem', left:'-4rem'}}>
 				<Card emoji={Glasses} heading='Backend' detail="Node, Django, Nest js"/>
